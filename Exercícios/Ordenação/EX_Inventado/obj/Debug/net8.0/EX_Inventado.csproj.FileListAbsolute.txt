@@ -1,0 +1,15 @@
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\bin\Debug\net8.0\EX_Inventado.exe
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\bin\Debug\net8.0\EX_Inventado.deps.json
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\bin\Debug\net8.0\EX_Inventado.runtimeconfig.json
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\bin\Debug\net8.0\EX_Inventado.dll
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\bin\Debug\net8.0\EX_Inventado.pdb
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.AssemblyInfoInputs.cache
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.AssemblyInfo.cs
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.csproj.CoreCompileInputs.cache
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.sourcelink.json
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.dll
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\refint\EX_Inventado.dll
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.pdb
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\EX_Inventado.genruntimeconfig.cache
+C:\Users\math\Desktop\Coding\ADS Repos\ADS\Data Structure\Exercícios\Ordenação\EX_Inventado\obj\Debug\net8.0\ref\EX_Inventado.dll

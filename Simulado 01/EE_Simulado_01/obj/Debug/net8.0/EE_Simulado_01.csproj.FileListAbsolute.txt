@@ -1,0 +1,14 @@
+D:\EE_Simulado_01\bin\Debug\net8.0\EE_Simulado_01.exe
+D:\EE_Simulado_01\bin\Debug\net8.0\EE_Simulado_01.deps.json
+D:\EE_Simulado_01\bin\Debug\net8.0\EE_Simulado_01.runtimeconfig.json
+D:\EE_Simulado_01\bin\Debug\net8.0\EE_Simulado_01.dll
+D:\EE_Simulado_01\bin\Debug\net8.0\EE_Simulado_01.pdb
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.AssemblyInfoInputs.cache
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.AssemblyInfo.cs
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.csproj.CoreCompileInputs.cache
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.dll
+D:\EE_Simulado_01\obj\Debug\net8.0\refint\EE_Simulado_01.dll
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.pdb
+D:\EE_Simulado_01\obj\Debug\net8.0\EE_Simulado_01.genruntimeconfig.cache
+D:\EE_Simulado_01\obj\Debug\net8.0\ref\EE_Simulado_01.dll

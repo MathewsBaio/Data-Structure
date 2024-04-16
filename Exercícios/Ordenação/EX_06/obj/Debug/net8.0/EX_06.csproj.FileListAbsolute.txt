@@ -1,0 +1,15 @@
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/bin/Debug/net8.0/EX_06
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/bin/Debug/net8.0/EX_06.deps.json
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/bin/Debug/net8.0/EX_06.runtimeconfig.json
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/bin/Debug/net8.0/EX_06.dll
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/bin/Debug/net8.0/EX_06.pdb
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.AssemblyInfoInputs.cache
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.AssemblyInfo.cs
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.csproj.CoreCompileInputs.cache
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.sourcelink.json
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.dll
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/refint/EX_06.dll
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.pdb
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/EX_06.genruntimeconfig.cache
+/home/aluno/repos/ADS/Data Structure/Exercícios/Ordenação/EX_06/obj/Debug/net8.0/ref/EX_06.dll

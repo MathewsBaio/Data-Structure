@@ -1,0 +1,43 @@
+D:/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.exe
+D:/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.deps.json
+D:/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.runtimeconfig.json
+D:/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.dll
+D:/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.pdb
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.GeneratedMSBuildEditorConfig.editorconfig
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfoInputs.cache
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfo.cs
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.csproj.CoreCompileInputs.cache
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.dll
+D:/EE_Simulado_02/obj/Debug/net8.0/refint/EE_Simulado_02.dll
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.pdb
+D:/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.genruntimeconfig.cache
+D:/EE_Simulado_02/obj/Debug/net8.0/ref/EE_Simulado_02.dll
+/home/aluno/CS/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02
+/home/aluno/CS/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.deps.json
+/home/aluno/CS/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.runtimeconfig.json
+/home/aluno/CS/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.dll
+/home/aluno/CS/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.pdb
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfoInputs.cache
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfo.cs
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.csproj.CoreCompileInputs.cache
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.dll
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/refint/EE_Simulado_02.dll
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.pdb
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.genruntimeconfig.cache
+/home/aluno/CS/EE_Simulado_02/obj/Debug/net8.0/ref/EE_Simulado_02.dll
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.deps.json
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.runtimeconfig.json
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.dll
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/bin/Debug/net8.0/EE_Simulado_02.pdb
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfoInputs.cache
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.AssemblyInfo.cs
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.csproj.CoreCompileInputs.cache
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.sourcelink.json
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.dll
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/refint/EE_Simulado_02.dll
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.pdb
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/EE_Simulado_02.genruntimeconfig.cache
+/home/aluno/repos/ADS-1/Data Structure/Simulado 01/EE_Simulado_02/obj/Debug/net8.0/ref/EE_Simulado_02.dll
